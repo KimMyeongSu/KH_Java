@@ -8,7 +8,8 @@
 
 
 ## 2 week
-* 2017_11_20 day 4 -----
+* 2017_11_20 day 4 ----- 이중for문 , 별찍기(예제) , 수열의 합 , 구구단출력 , 범위 합계와 평균 [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/4day)
+
 * 2017_11_21 day 5 -----
 * 2017_11_22 day 6 -----
 * 2017_11_23 day 7 -----
