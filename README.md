@@ -9,10 +9,10 @@
 
 ## 2 week
 * 2017_11_20 day 4 ----- 이중for문 , 별찍기(예제) , 수열의 합 , 구구단출력 , 범위 합계와 평균 [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/4day)
-* 2017_11_21 day 5 -----  String클래스 , Wrapper클래스 , ASCII 조건 [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/5day)
-* 2017_11_22 day 6 -----  계산기 조건추가 , 가위바위보 , 랜덤값 찾기 , 최대 최소 평균 [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/6day)
-* 2017_11_23 day 7 -----
-* 2017_11_24 day 8 -----
+* 2017_11_21 day 5 ----- 2차원배열 , While문 , Continue 사용 , Break 사용 , 성적구하기(예제) [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/5day)
+* 2017_11_22 day 6 -----  String클래스 , Wrapper클래스 , ASCII 조건 [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/6day)
+* 2017_11_23 day 7 -----  계산기 조건추가 , 가위바위보 , 랜덤값 찾기 , 최대 최소 평균 [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/7day)
+* 2017_11_24 day 8 -----  랜덤값을 이용한 콘솔 야구게임  [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/8day)
 
 ## 3 week
 * 2017_12_4 day 9  -----
