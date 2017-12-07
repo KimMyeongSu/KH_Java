@@ -9,11 +9,14 @@
 
 ## 2 week
 * 2017_11_20 day 4 ----- 이중for문 , 별찍기(예제) , 수열의 합 , 구구단출력 , 범위 합계와 평균 [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/4day)
-
-* 2017_11_21 day 5 -----
+* 2017_11_21 day 5 -----  String클래스 , Wrapper클래스 , ASCII 조건 [[이동]](https://github.com/KimMyeongSu/KH_Java/tree/master/kh_week_2/5day)
 * 2017_11_22 day 6 -----
 * 2017_11_23 day 7 -----
 * 2017_11_24 day 8 -----
 
 ## 3 week
-* 2017_12~4 ~ 2017_12_8 누락 추가 필요.
+* 2017_12_4 day 9  -----
+* 2017_12_5 day 10 -----
+* 2017_12_6 day 11 -----
+* 2017_12_7 day 12 -----
+* 2017_12_8 day 13 -----
